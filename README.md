@@ -1,6 +1,10 @@
 # WaveformTool
 
- 2008 / 2019
+2008 / 2019    
+
+### Note
+
+Only supported on macOS
 
 #### Supported SDK
 
