@@ -1,0 +1,2 @@
+19000.png		WaveformTool.png
+19001.png		WaveformToolDark.png
